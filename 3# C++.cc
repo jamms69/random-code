@@ -11,7 +11,7 @@ int main()
 	             cout<<a<<" is the largest number";
 	     else cout<<c<<" is the largest number";
 	      
-    if (b>a)
+   	 if (b>a)
 	      if (b>c)
 	           cout<<b<<" is the largest number";
 	    else cout<<c<<" is the largest number";
